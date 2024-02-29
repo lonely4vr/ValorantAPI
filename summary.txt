@@ -1,0 +1,12 @@
+Prepare a short write-up explaining your choice of API, the functionality of your application, and any challenges you encountered during development.
+
+I chose a Gaming API because it is something that it is interesting to me, I chose Valorant API to do this assignment specifically because I am very familiar with this topic. I had ran into lots of problems and got stuck when converting the input from html file for the script to run and recognize the values passsed to JS. Especially when I wanted to print out to the web certain values, I had a difficult time with using the append method. I had to do lots of research on chatGPT and W3 schools as my main resources. I enjoyed the design process which I had realized that I forgot a lot of knowledge from my IT161 class, so it was good to refresh my memory when it comes to CSS. I also asked my brother Troy to explain how to make the loop to read all the data from the API and group them so that we have an organized data.
+
+
+Demonstrate the functionality of your application with examples.
+My application functionaility is to give user correct information when they search up an agent from Valorant game, it will display the image, their name and descriptions.
+For example: some of the agents you can look up are: Jett, Reyna, Skye, Cypher, Sage, Sova, Gekko and so on.
+
+Agent Name: Reyna
+Agent Developer Name: Vampire
+Agent Description: Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her sharply dependant on performance.

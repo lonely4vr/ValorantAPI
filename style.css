@@ -1,0 +1,72 @@
+
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif; 
+    margin: 0;
+    padding: 0;
+    background-color: #f2c5e0; /* Soft pink background */
+}
+
+
+header {
+    background-color: #ff80bf; /* Light pink header */
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+    border-bottom: 3px solid #ff3399; /* Pink border */
+}
+
+
+
+p {
+    color: #451481; /* Darker text color */
+    line-height: 1.8;
+}
+
+
+a {
+    color: #ff3399; /* Pink link color */
+    text-decoration: none;
+}
+
+.container {
+    border: 10px solid #ff3399;
+    max-width: 700px;
+    margin: 50px auto 30px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+input[type="text"] {
+    padding: 10px; /* Add padding to make it look more spacious */
+    border: 2px solid #ff3399; /* Add a border */
+    border-radius: 5px; /* Add rounded corners */
+    font-size: 16px; /* Increase font size */
+    width: 70%; /* Adjust width */
+    margin-left: 25px;
+    margin-bottom: 30px; /* Add some space between the input and the button */
+
+}
+
+
+button {
+    margin-left: 15px;
+    padding: 10px 20px; /* Add padding to make it look larger */
+    background-color: #ff3399; /* Pink background */
+    color: #fff; /* White text color */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add rounded corners */
+    font-size: 16px; /* Increase font size */
+    cursor: pointer; /* Add pointer cursor */
+}
+
+
+button:hover {
+    background-color: #ff80bf; 
+}
+
+img{
+    position: relative;
+    top: 50%;
+    margin: auto;
+    display: block;
+}
